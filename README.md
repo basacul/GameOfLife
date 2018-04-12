@@ -9,6 +9,7 @@ This program displays the Game Of Life based on 4 simple fundamental rules descr
 2. Any live cell with more than three live neighbors dies, as if by overcrowding.
 3. Any live cell with two or three live neighbors lives on to the next generation.
 4. Any dead cell with exactly three live neighbors becomes a live cell.
+
 where each living cell is represented by a red pixel.
 
 The main application is found in the directory GameOfLife/build/main and the source code in GameOfLife/build/main.c.
